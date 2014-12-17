@@ -4,7 +4,7 @@
 The script tidy the data collected from the Samsung Galaxy S smartphone.
 You must unzip the files from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in you R directory.
 
-The script has two big steps.
+The script has four big steps.
 
 *1. Join the data from different files
 ** The result is stored in "data" data set
