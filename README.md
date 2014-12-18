@@ -16,4 +16,7 @@ The script has four big steps.
 
 *4. Save the dat5 data file as dat5.txt file.
 
+The dat5.txt is submitted as the tidy data set at the Coursera website.
+
+
 
